@@ -6,3 +6,5 @@ A calculadora solicita o salário atual do colaborador e o reajuste em porcentag
 
 ### Uso:
 Compile o programa utilizando sua IDE de preferência.
+
+#### Commit 1.0: 
