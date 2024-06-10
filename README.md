@@ -4,5 +4,5 @@ Este é um projeto simples de uma calculadora de aumento salarial desenvolvida e
 ## Funcionalidades:
 A calculadora solicita o salário atual do colaborador e o reajuste em porcentagem. Ao final, retorna com o valor exato do reajuste.
 
-## Uso:
+### Uso:
 Compile o programa utilizando sua IDE de preferência.
